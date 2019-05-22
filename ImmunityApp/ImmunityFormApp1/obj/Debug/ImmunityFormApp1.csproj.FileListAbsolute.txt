@@ -1,0 +1,64 @@
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\bin\Debug\ImmunityFormApp1.exe.config
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\bin\Debug\ImmunityFormApp1.exe
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\bin\Debug\ImmunityFormApp1.pdb
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Properties.Resources.resources
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.csproj.GenerateResource.cache
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.csproj.CoreCompileInputs.cache
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.exe
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.pdb
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.csprojAssemblyReference.cache
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Home.resources
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.UserGuide.resources
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Scan.resources
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Safe_file.resources
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Malware_detected.resources
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.View_history.resources
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.RunningDynamic.resources
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\bin\Debug\ImmunityFormApp1.exe.manifest
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\bin\Debug\ImmunityFormApp1.application
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.exe.manifest
+D:\visual studio- projects\ImmunityFormApp\ImmunityFormApp1\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.application
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.csprojAssemblyReference.cache
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.RunningDynamic.resources
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Safe_file.resources
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Malware_detected.resources
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Home.resources
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.View_history.resources
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.UserGuide.resources
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.csproj.GenerateResource.cache
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.csproj.CoreCompileInputs.cache
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Quarantine_Folder.resources
+D:\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.exe.config
+D:\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.exe.manifest
+D:\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.application
+D:\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.exe
+D:\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.pdb
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.Properties.Resources.resources
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.exe.manifest
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.application
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.exe
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.pdb
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.StaticScan.resources
+D:\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Scaning.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.exe.config
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.exe.manifest
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.application
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.exe
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\bin\Debug\Immunity.pdb
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.csprojAssemblyReference.cache
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.RunningDynamic.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Safe_file.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Malware_detected.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Home.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Quarantine_Folder.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.StaticScan.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.Scaning.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.View_history.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.UserGuide.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.Properties.Resources.resources
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.csproj.GenerateResource.cache
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\ImmunityFormApp1.csproj.CoreCompileInputs.cache
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.exe.manifest
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.application
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.exe
+C:\Users\niluf\Desktop\Immunity\ImmunityApp\ImmunityFormApp1\obj\Debug\Immunity.pdb

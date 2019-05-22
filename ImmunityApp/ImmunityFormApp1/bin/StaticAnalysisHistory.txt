@@ -1,0 +1,672 @@
+File Name:
+AddedFile
+Full File Name:
+Path of Added File
+Result:
+Malpp
+Confidence Level:
+34
+File Name: 
+SpywareWhoohoo
+Full File Name: 
+D:\TestSubjects\spywareTest\SpywareWhoohoo
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+61.73885
+File Name: 
+ranranransom
+Full File Name: 
+D:\TestSubjects\RantestBLAH\ranranransom
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+vlc.exe
+Full File Name: 
+D:\TestSubjects\Benign\vlc.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+100
+File Name: 
+#5582416 Ami Faisal Tharayil.pdf
+Full File Name: 
+D:\work files\UOWD\#5582416 Ami Faisal Tharayil.pdf
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+#5582416 Ami Faisal Tharayil.pdf
+Full File Name: 
+D:\work files\UOWD\#5582416 Ami Faisal Tharayil.pdf
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+StartSmart_Certificate.pdf
+Full File Name: 
+D:\work files\UOWD\StartSmart_Certificate.pdf
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+POC.docx
+Full File Name: 
+D:\POC.docx
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+1111
+File Name: 
+StartSmart_Certificate.pdf
+Full File Name: 
+D:\work files\UOWD\StartSmart_Certificate.pdf
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+jcpicker.exe
+Full File Name: 
+D:\jcpicker.exe
+Result: 
+Dangerous File - Spyware
+Confidence Level: 
+94.88313
+File Name: 
+f72f0863f6ba168197b7a43f3966e7509f9522fe4951ce04b0d481bf36ccc9de
+Full File Name: 
+D:\TestSubjects\VirusShare_c5f4c90b3c88f4219a5e850826dfca9b\f72f0863f6ba168197b7a43f3966e7509f9522fe4951ce04b0d481bf36ccc9de
+Result: 
+Dangerous File - other Malware
+Confidence Level: 
+86.334
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Dangerous File - other Malware
+Confidence Level: 
+86.334
+File Name: 
+mspaint.exe
+Full File Name: 
+D:\TestSubjects\Benign\mspaint.exe
+Result: 
+Dangerous File - other Malware
+Confidence Level: 
+86.334
+File Name: 
+mspaint.exe
+Full File Name: 
+D:\TestSubjects\Benign\mspaint.exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+5555
+File Name: 
+f72f0863f6ba168197b7a43f3966e7509f9522fe4951ce04b0d481bf36ccc9de
+Full File Name: 
+D:\Immunity\QuarantineFolder\f72f0863f6ba168197b7a43f3966e7509f9522fe4951ce04b0d481bf36ccc9de
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+100
+File Name: 
+f72f0863f6ba168197b7a43f3966e7509f9522fe4951ce04b0d481bf36ccc9de
+Full File Name: 
+D:\Immunity\QuarantineFolder\f72f0863f6ba168197b7a43f3966e7509f9522fe4951ce04b0d481bf36ccc9de
+Result: 
+Dangerous File - other Malware
+Confidence Level: 
+86.334
+File Name: 
+jcpicker.exe
+Full File Name: 
+D:\TestSubjects\Benign\jcpicker.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+vlc.exe
+Full File Name: 
+D:\TestSubjects\Benign\vlc.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+sublime_text.exe
+Full File Name: 
+D:\TestSubjects\Benign\sublime_text.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+maya.exe
+Full File Name: 
+D:\TestSubjects\Benign\maya.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+maya.exe
+Full File Name: 
+D:\TestSubjects\Benign\maya.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+maya.exe
+Full File Name: 
+D:\TestSubjects\Benign\maya.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+maya.exe
+Full File Name: 
+D:\TestSubjects\Benign\maya.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+vlc.exe
+Full File Name: 
+D:\TestSubjects\Benign\vlc.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+maya.exe
+Full File Name: 
+D:\TestSubjects\Benign\maya.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+01c1afa18c77755833d7f88706fc6fb1c04a1cab8dcf9ae696e465959364e9ab
+Full File Name: 
+D:\TestSubjects\VirusShare_5f13cfa097697eb1bba6835a70cf9814\01c1afa18c77755833d7f88706fc6fb1c04a1cab8dcf9ae696e465959364e9ab
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+94.22399
+File Name: 
+42bfebf0e111f1ae962c24189440128b44d258684ae04439c3de4bca0c76313b
+Full File Name: 
+D:\TestSubjects\VirusShare_e45bc859defaf2afa28df8c698bf8d48\42bfebf0e111f1ae962c24189440128b44d258684ae04439c3de4bca0c76313b
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+91.72703
+File Name: 
+devcpp.exe
+Full File Name: 
+D:\TestSubjects\Benign\devcpp.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+jcpicker.exe
+Full File Name: 
+D:\TestSubjects\Benign\jcpicker.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+devcpp.exe
+Full File Name: 
+D:\TestSubjects\Benign\devcpp.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+jcpicker.exe
+Full File Name: 
+D:\TestSubjects\Benign\jcpicker.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+jcpicker.exe
+Full File Name: 
+D:\TestSubjects\Benign\jcpicker.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+maya.exe
+Full File Name: 
+D:\TestSubjects\Benign\maya.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+maya.exe
+Full File Name: 
+D:\TestSubjects\Benign\maya.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\packedfiles\chrome.exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+18.97641
+File Name: 
+devcpp.exe
+Full File Name: 
+D:\TestSubjects\packedfiles\devcpp.exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+37.44642
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\packedfiles\chrome.exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+18.97641
+File Name: 
+devcpp.exe
+Full File Name: 
+D:\TestSubjects\packedfiles\devcpp.exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+37.44642
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\packedfiles\chrome.exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+18.97641
+File Name: 
+devcpp.exe
+Full File Name: 
+D:\TestSubjects\packedfiles\devcpp.exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+37.44642
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+42bfebf0e111f1ae962c24189440128b44d258684ae04439c3de4bca0c76313b
+Full File Name: 
+D:\Immunity\QuarantineFolder\42bfebf0e111f1ae962c24189440128b44d258684ae04439c3de4bca0c76313b
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+91.72703
+File Name: 
+jcpicker.exe
+Full File Name: 
+D:\TestSubjects\Benign\jcpicker.exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+10.51066
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+devcpp.exe
+Full File Name: 
+D:\TestSubjects\Benign\devcpp.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+TeamViewer.exe
+Full File Name: 
+D:\TestSubjects\Benign\TeamViewer.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+20190515a9e4388dc9e3b62ae6f888abd94635f682f1a56b11abd614e74ca47027151b9f.20190515exe
+Full File Name: 
+E:\downloads2\malware2\20190515a9e4388dc9e3b62ae6f888abd94635f682f1a56b11abd614e74ca47027151b9f.20190515exe
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+75.94609
+File Name: 
+pycharm64.exe
+Full File Name: 
+D:\TestSubjects\Benign\pycharm64.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+flower
+Full File Name: 
+C:\Users\amith\Downloads\flower
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+85.29137
+File Name: 
+
+Full File Name: 
+
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+devcpp.exe
+Full File Name: 
+D:\TestSubjects\Benign\devcpp.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+chrome.exe
+Full File Name: 
+D:\TestSubjects\Benign\chrome.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+1st_Python_Tutorial.pptx
+Full File Name: 
+D:\1st_Python_Tutorial.pptx
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+1111
+File Name: 
+ami
+Full File Name: 
+D:\TestSubjects\malware\ami
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+75.42471
+File Name: 
+ami
+Full File Name: 
+D:\TestSubjects\malware\ami
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+75.42471
+File Name: 
+ami
+Full File Name: 
+D:\TestSubjects\malware\ami
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+75.42471
+File Name: 
+ami
+Full File Name: 
+D:\TestSubjects\malware\ami
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+75.42471
+File Name: 
+e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Full File Name: 
+C:\Users\niluf\Downloads\flowery\e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Result: 
+Dangerous File - Spyware
+Confidence Level: 
+92.7598
+File Name: 
+hello (7)
+Full File Name: 
+C:\Users\niluf\Downloads\Downloads\hello (7)
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+94.22399
+File Name: 
+
+Full File Name: 
+
+Result: 
+Dangerous File - other Malware
+Confidence Level: 
+86.334
+File Name: 
+byebye
+Full File Name: 
+C:\Users\niluf\Downloads\Downloads\byebye
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+94.19933
+File Name: 
+windowsdefender
+Full File Name: 
+C:\Users\niluf\Downloads\Downloads\windowsdefender
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+94.22399
+File Name: 
+Beemo
+Full File Name: 
+C:\Users\niluf\Desktop\Test Subjects\Beemo
+Result: 
+Dangerous File - other Malware
+Confidence Level: 
+86.334
+File Name: 
+chrome.exe
+Full File Name: 
+C:\Users\niluf\Desktop\Test Subjects\chrome.exe
+Result: 
+Dangerous File - other Malware
+Confidence Level: 
+86.334
+File Name: 
+wmplayer.exe
+Full File Name: 
+C:\Users\niluf\Desktop\All\Malware\benign\wmplayer.exe
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+6a9b75be95b68607c1f2e371515869d27313f8c84375aea0ffdaf9e6855b6a06
+Full File Name: 
+C:\Users\niluf\Desktop\Test Subjects\Test Subjects\6a9b75be95b68607c1f2e371515869d27313f8c84375aea0ffdaf9e6855b6a06
+Result: 
+Dangerous File - other Malware
+Confidence Level: 
+86.334
+File Name: 
+9c68a9a4cc74472ffe79971d68212e10c29bbb9a7bafff099a3f2d5c2d2ee7d3
+Full File Name: 
+C:\Users\niluf\Desktop\Test Subjects\Test Subjects\9c68a9a4cc74472ffe79971d68212e10c29bbb9a7bafff099a3f2d5c2d2ee7d3
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Full File Name: 
+C:\Users\niluf\Desktop\Test Subjects\VirusShare_4e146c285bcd8a9a65adc230dfe123a0\e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Full File Name: 
+C:\Users\niluf\Desktop\Test Subjects\VirusShare_4e146c285bcd8a9a65adc230dfe123a0\e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Full File Name: 
+C:\Users\niluf\Desktop\Test Subjects\VirusShare_4e146c285bcd8a9a65adc230dfe123a0\e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Full File Name: 
+C:\Users\niluf\Desktop\Test Subjects\VirusShare_4e146c285bcd8a9a65adc230dfe123a0\e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Full File Name: 
+C:\Users\niluf\Desktop\Test Subjects\VirusShare_4e146c285bcd8a9a65adc230dfe123a0\e1e40fcf10ca7e7c199949dd4e0f8155f1de25e4526a315a414f085bd8b8f8ef
+Result: 
+Safe
+Confidence Level: 
+NULL
+File Name: 
+a34c8525ee3541ace7a231be671b339d58d936dd22a96462a1b2dae0ec8af956
+Full File Name: 
+C:\Users\niluf\Desktop\TestSubjects\TestSubjects\a34c8525ee3541ace7a231be671b339d58d936dd22a96462a1b2dae0ec8af956
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+91.65757
+File Name: 
+Flynn
+Full File Name: 
+C:\Users\niluf\Desktop\TestSubjects\Flynn
+Result: 
+Dangerous File - Spyware
+Confidence Level: 
+96.61225
+File Name: 
+killme
+Full File Name: 
+C:\Users\niluf\Desktop\TestSubjects\killme\killme
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+94.19933

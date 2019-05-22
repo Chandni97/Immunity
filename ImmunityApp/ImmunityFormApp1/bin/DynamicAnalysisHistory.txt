@@ -1,0 +1,16 @@
+File Name: 
+e59d9cf02598cf225626f10d72340a119c1025305548eda0901665d791f02f6d
+Full File Name: 
+D:\TestSubjects\VirusShare_ab965bfae982809f15b4e4ef6f5a65b0\e59d9cf02598cf225626f10d72340a119c1025305548eda0901665d791f02f6d
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+NULL
+File Name: 
+rantest
+Full File Name: 
+D:\TestSubjects\VirusShare_61465c15986aed38bf65441bf98c3648\rantest
+Result: 
+Dangerous File - Ransomware
+Confidence Level: 
+NULL

@@ -1,0 +1,6 @@
+                       Ultimate Packer for eXecutables
+                          Copyright (C) 1996 - 2018
+UPX 3.95w       Markus Oberhumer, Laszlo Molnar & John Reiser   Aug 26th 2018
+
+
+Tested 0 files.
